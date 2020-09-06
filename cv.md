@@ -63,7 +63,7 @@
         - Collection of necessary information from project participants
         - Creating draft and detailed layouts for desktop and mobile versions
         - Discussion and approval of layouts in the project team
-<!-- 1. Education
+1. Education
     - 2020 • Javascript • Denys Mescheryakov • *In a proccess*
     [Курс на Udemy](https://www.udemy.com/course/modern-javascript-from-beginning/)
     - 2020 • Javascript Angular • Владилен Минин • *In a proccess*
@@ -77,4 +77,4 @@
     - 2016 • SkillBox • AIC, Web-design
 1. English
     - Pre-Intermediate
-    Study in SkyEng and on preply.com / In a proccess -->
+    Study in SkyEng and on preply.com / In a proccess
